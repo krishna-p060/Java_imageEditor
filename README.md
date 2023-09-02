@@ -8,7 +8,7 @@ A simple Java program for basic image editing operations using BufferedImage and
 * Operations
 * Contributing
 
-##Description
+## Description
 This Java Image Editor is a console-based application that allows you to perform various image editing operations on an input image. The operations include:
 
 - Converting an image to grayscale
