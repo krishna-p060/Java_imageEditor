@@ -17,6 +17,8 @@ This Java Image Editor is a console-based application that allows you to perform
 - Cropping the image
 - Blurring the image
 - Rotating the image by 90 degrees
+- Flipping Image vertically
+  
 The code uses Java AWT, Java IO, and JavaX ImageIO libraries for image manipulation and file input/output.
 
 ## Dependencies
